@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "lab-local-e7af7"
-  }
+    "default": "lab-react-tic-tac-toe",
+    "lab-react-tic-tac-toe": "lab-react-tic-tac-toe"
+  },
+  "targets": {},
+  "etags": {}
 }
